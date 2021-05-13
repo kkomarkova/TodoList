@@ -1,6 +1,6 @@
 # Blazor To-do list app:computer:
 To-do list app is Blazor Server app, which use in practice:<br/>
-- Creation of Blazor app<br/>
+- Creation of Server Blazor app<br/>
 - Modify Razor components<br/>
 - Use event handling and data binding in components<br/>
 - Use routing in a Blazor app<br/>
